@@ -1,2 +1,1 @@
-# loduu
-albaal
+# ludo
